@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+h2 ,h3, form{
+    text-align: center;
+    margin-bottom: 10vh;
+}
+
+  
+td{
+    text-align: center;
+    padding: 0px;
+}
+
+
+header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 100px;
+}
+
+textarea{
+    max-width: 300px;
+    min-width: 300px;
+    max-height: 200px;
+    min-height: 200px;
+}
+
+
+
+
+
+.rotate{
+    transform: rotate(-90deg);
+    padding: 5px;
+}
+
+
+
+th{
+    border: 1px solid black;
+    height: 30px;
+    width: 100%;
+}
+
+
+.th_tr_thead{
+    border: 2px solid #212121;
+
+
+}
+
+.th_vertical{
+    width: 20px;
+    height: 10px;
+}
+
+.cell_none{
+    border: 0px;
+}
+
+
+.none{
+    display: none !important;
+}
+
+
+#boardGame{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    height: 100vh;
+}
+
+#clues{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 50vh;
+    margin-top: 10vh;
+}
+
+
+#validateForm{
+    text-align: center;
+    margin-top: 10vh;
+}
+
+#result{
+    text-align: center;
+}
+
+.case{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.importantCase{
+    background-color: lightcyan;
+}
