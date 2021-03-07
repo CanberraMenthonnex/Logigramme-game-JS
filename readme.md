@@ -1,3 +1,5 @@
+Logigramme game JS project:
+
 src:
 La grille de jeux a été inspiré du code source du tableau des "Compatibilités des navigateurs" de la page MDN si dessous.
 https://developer.mozilla.org/fr/docs/Web/HTML/Element/Input#compatibilit%C3%A9_des_navigateurs
